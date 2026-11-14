@@ -4,4 +4,6 @@
 
 ![User interface](assets/pfp.jpeg)
 
+## UX Journal Entries
 
+[Right Order, Wrong Location: My Chipotle App Mistake](chipotle.md)
